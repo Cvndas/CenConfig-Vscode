@@ -1,0 +1,81 @@
+{
+    "editor.stickyScroll.enabled": false,
+    "editor.fontFamily": "'Jetbrains Mono', 'Courier New', monospace",
+    "workbench.colorTheme": "Sakura",
+    "background.windowBackgrounds": [
+        "c:/Users/Thad9/Dropbox/Config Files/Rider/Wallpapers/img32.jpg"
+    ],
+    "vim.useSystemClipboard": true,
+    "[csharp]": {
+        "editor.defaultFormatter": "ms-dotnettools.csharp"
+    },
+    "editor.lineNumbers": "relative",
+    "zenMode.hideLineNumbers": false,
+    "editor.folding": false,
+    "separators.location": "surroundingTheSymbol",
+    "background.backgroundOpacity": [
+        0.08,
+        0.1,
+        0.1,
+        0.1
+    ],
+    "editor.rulers": [
+        120
+    ],
+    "files.exclude": {
+        "**/*.meta": true,
+        "**/.git": false
+    },
+    "dotnet.preferCSharpExtension": true,
+    "dotnet.defaultSolution": "Unity - Centradigon.sln",
+    "workbench.secondarySideBar.showLabels": true,
+    "workbench.activityBar.location": "top",
+    // "[Sakura]": {
+    // 	"editor.semanticHighlighting.enabled": false
+    // }
+    "vim.scroll": 15,
+    "editor.formatOnSave": true,
+    "editor.cursorBlinking": "phase",
+    // Editor tabs
+    "workbench.editor.tabSizing": "fit",
+    "window.density.editorTabHeight": "compact",
+    "workbench.editor.pinnedTabsOnSeparateRow": true,
+    "workbench.editor.pinnedTabSizing": "normal",
+    "workbench.editor.tabActionCloseVisibility": false,
+    // Hiding breakpoint bar
+    "editor.glyphMargin": false,
+    "git.confirmSync": false,
+    "editor.cursorSurroundingLines": 8,
+    "breadcrumbs.filePath": "last",
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.acceptSuggestionOnEnter": "off",
+    "coloredRegions.colorRange": [
+        "#65a30d12",
+        "#0891b212",
+        "#db277712",
+        "#ca8a0412",
+        "#dc262612",
+        "#7c3aed12"
+    ],
+    "regionHelper.regionsView.shouldAutoHighlightActiveRegion": true,
+    "TransparentMinimap.enableTransparentMinimap": false,
+    "editor.minimap.sectionHeaderFontSize": 10,
+    "editor.minimap.showSlider": "always",
+    "editor.minimap.maxColumn": 70,
+    "editor.scrollbar.vertical": "visible",
+    "window.customTitleBarVisibility": "windowed",
+    "workbench.editor.showTabs": "single",
+    "editor.mouseWheelZoom": true,
+    "editor.fontSize": 14.8,
+    "files.autoSave": "onFocusChange",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.smoothScrolling": true,
+    "remote.SSH.remotePlatform": {
+        "Kubuntu25": "linux"
+    },
+    "editor.scrollOnMiddleClick": true,
+    "vstuc.refreshOnSave": true,
+    "editor.lineHeight": 1.2,
+    "background.autoInstall": false,
+    "haskell.manageHLS": "GHCup"
+}
